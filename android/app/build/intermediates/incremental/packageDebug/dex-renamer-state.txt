@@ -1,0 +1,4 @@
+#Mon Apr 23 10:23:34 ICT 2018
+base.0=E\:\\Data\\Study\\ReactNative\\PS05384_ASIGNMENT\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\Data\\Study\\ReactNative\\PS05384_ASIGNMENT\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
